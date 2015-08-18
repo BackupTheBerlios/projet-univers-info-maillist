@@ -1,0 +1,22 @@
+From faro at lfxw.com  Sun Sep  5 17:41:27 2004
+From: faro at lfxw.com (Faro)
+Date: Sun, 5 Sep 2004 17:41:27 +0200
+Subject: [Projet-univers-info] test
+Message-ID: <20040905154127.EE5431845D9@postfix4-1.free.fr>
+
+ne tenez pas compte de ce message, je fais un test ...
+
+faro
+
+
+
+From mathieu.roger at imag.fr  Sat Sep 18 13:42:08 2004
+From: mathieu.roger at imag.fr (Mathieu Roger)
+Date: Sat, 18 Sep 2004 13:42:08 +0200
+Subject: [Projet-univers-info] ajout d'un fichier et d'une news
+Message-ID: <414C1F10.7020700@imag.fr>
+
+J'ai ajout? le fichier contenant le script de mise ? jour automatique 
+des documents docbooks vers le site web..
+
+
